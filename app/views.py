@@ -87,4 +87,3 @@ def lista_candidato(request):
             'year':datetime.now().year,
         })
     )
-
